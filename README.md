@@ -85,11 +85,11 @@ The calculated values matched the dataset.
 
 ### Raw Data
 
-*(Upload `raw-data.png` here after committing the README.)*
+![Raw Data](raw-data.png)
 
 ### Data Cleaning Summary
 
-*(Upload `data-cleaning-summary.png` here after committing the README.)*
+![Data Cleaning Summary](data-cleaning-summary.png)
 
 ---
 
